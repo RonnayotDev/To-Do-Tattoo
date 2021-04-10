@@ -1,0 +1,4 @@
+li.list-group-item.my-2{
+    display: flex;
+    justify-content: space-between;
+}
